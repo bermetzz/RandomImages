@@ -2,4 +2,9 @@
     <string name="app_name">RandomImages</string>
     <string name="submit">Submit</string>
     <string name="random">Random</string>
+    <string name="first_url">https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg</string>
+    <string name="second_url">https://thumbs.dreamstime.com/b/silhouette-man-jumping-over-cliff-sunset-background-jump-gap-hill-business-concept-ideasundown-sunrise-74726082.jpg</string>
+    <string name="third_url">https://cdn.pixabay.com/photo/2016/09/19/22/46/lake-1681485__480.jpg</string>
+    <string name="fourth_url">https://img.theculturetrip.com/wp-content/uploads/2017/07/seealpsee-1943805_1280.jpg</string>
+    <string name="fifth_url">https://media.cntraveler.com/photos/59bb6a56e35d8f08044a32cf/master/w_2048,h_1536,c_limit/Rakotzbrucke-GettyImages-538162756.jpg</string>
 </resources>
